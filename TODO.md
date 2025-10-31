@@ -16,7 +16,7 @@ Organized steps (pseudocode)
 2. Find the day of the week and choose the correct flavor
 
 - Use the findFlavorObject function already written to get the correct flavor object and probably store it in a variable.
-- Test the existing code to see how it work s (make sure that it correctly loops over the featruedFlavors array to return the correct flavor)
+- Test the existing code to see how it work s (make sure that it correctly loops over the featuredFlavors array to return the correct flavor)
 
 3. Replace the placeholder img
 
