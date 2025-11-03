@@ -65,3 +65,18 @@ function revealFlavor() {
   let flavorName = document.querySelector("#featured-cupcake-name");
   flavorName.innerText = flavorObject.name;
 }
+//PART 2 INSTRUCTOR DEMO
+
+// 1. Select the Next Flavor button from the DOM
+
+// 2. Attach an event listener to the button
+
+// 3. Find the current displayed flavor name
+
+// 4. Find the index of the current flavor in the array
+
+// 5. Calculate the next flavor index (wrap around if at end)
+
+// 6. Update the cupcake display with the next flavor
+
+// Console log at each step to show how event-driven programming works
