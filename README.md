@@ -11,7 +11,7 @@ Build the **Flavor of the Day** feature using basic JavaScript and the DOM.
 - Update the DOM:
   - set `src` on `#featured-cupcake-img`
   - set text of `#featured-cupcake-name`
-- Test in the console with `console.log(getFeaturedCupcake())`, then reload to verify the image/name update.
+- Test in the console with `console.log(revealFlavor())`, then reload to verify the image/name update.
 
 ## Optional Stretch
 Support countries where the week starts on Saturday (e.g., Bahrain) by adjusting the selection logic.
