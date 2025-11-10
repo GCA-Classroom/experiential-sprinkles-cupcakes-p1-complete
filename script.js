@@ -65,18 +65,20 @@ function revealFlavor() {
   let flavorName = document.querySelector("#featured-cupcake-name");
   flavorName.innerText = flavorObject.name;
 }
-//PART 2 INSTRUCTOR DEMO
 
-// 1. Select the Next Flavor button from the DOM
+//PART 2 INSTRUCTOR DEMO - Show Random Flavor
 
-// 2. Attach an event listener to the button
+// 1. Add a "Random Flavor" button to the HTML (#random-flavor-btn).
+// Uncomment the code in index.html (line 478).
 
-// 3. Find the current displayed flavor name
+// 2. Select the button, cupcake name, and image elements from the DOM.
 
-// 4. Find the index of the current flavor in the array
+// 3. Create a variable to track which flavor is showing (start at 0).
 
-// 5. Calculate the next flavor index (wrap around if at end)
+// 4. Write code that updates the image and name based on the current flavor.
 
-// 6. Update the cupcake display with the next flavor
+// 5. Run that code once when the page loads to show the first flavor.
 
-// Console log at each step to show how event-driven programming works
+// 6. Add a click event listener to the Random Flavor button.
+
+// 7. When clicked: choose a random index from the array, update the display, and log the result.
